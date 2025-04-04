@@ -23,8 +23,8 @@ You can use the website to generate badges: https://shields.io/
 **Lenguajes que manejo:**
 
 <p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://d2o9wnd5wywfpj.cloudfront.net/covers/32/s_banner/portfolio-08-large.jpg?1621306513"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code>
