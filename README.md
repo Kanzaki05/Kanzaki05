@@ -23,13 +23,13 @@ You can use the website to generate badges: https://shields.io/
 **Lenguajes que manejo:**
 
 <p>
-  <code><img width="15%" src="https://d2o9wnd5wywfpj.cloudfront.net/covers/32/s_banner/portfolio-08-large.jpg?1621306513"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21~bgwhite.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21~bgwhite.svg"></code>
+  <code><img width="15%" src="https://payload-cms.code-b.dev/media/dotnet-ar21%20(1)%201.png"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
