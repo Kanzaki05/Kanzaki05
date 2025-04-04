@@ -46,4 +46,7 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://github.com/Kanzaki05/New-FumoMarket">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanzaki05&theme=highcontrast&repo=New-FumoMarket" />
   </a>
+  <a href="https://github.com/Kanzaki05/Market-Fumo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanzaki05&theme=highcontrast&repo=Market-Fumo" />
+  </a>
 </div>
