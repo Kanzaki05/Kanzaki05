@@ -27,13 +27,13 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21~bgwhite.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21~bgwhite.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21~bgwhite.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="15%" src="https://www.aditum-soft.ru/upload/medialibrary/bbd/bbd7776d04e5b8f91928a4277193b930.png"></code>
 </p>
 
 ---
