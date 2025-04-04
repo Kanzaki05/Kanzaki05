@@ -42,8 +42,8 @@ You can use the website to generate badges: https://shields.io/
 <div>
   <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=Kanzaki05&theme=highcontrast&show_icons=true" /></span>
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanzaki05&theme=highcontrast&layout=compact&langs_count=10" /></span>
-  <br />
-  <a href="https://github.com/yuebaix/pangu">
+  
+  <a href="https://github.com/Kanzaki05/New-FumoMarket">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kanzaki05&theme=highcontrast&repo=New-FumoMarket" />
   </a>
 </div>
