@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 - Actualmente estoy aprendiendo Python, PHP.
 - ¡Estoy buscando colaborar en cualquier proyecto!
 - Pregúntame lo que sea, ¡estoy feliz de ayudar!
-- Cómo contactarme: __ricse.sahir@gmail.com__
+- Cómo contactarme: ricse.sahir@gmail.com
 
 ---
 
